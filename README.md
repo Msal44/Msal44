@@ -1,12 +1,9 @@
 ### Hi! I'm Melvyn Salvatierra👋
 
 <html>
-<body>
-
-<h2>HTML Image</h2>
-<img src="https://media2.giphy.com/media/CTX0ivSQbI78A/giphy.gif" alt = "We have technology "width="500" height="400">
-
-</body>
+  <body>
+    <img src="https://media2.giphy.com/media/CTX0ivSQbI78A/giphy.gif" alt = "We have technology "width="500" height="400">
+  </body>
 </html>
 
 <!--
