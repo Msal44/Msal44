@@ -1,9 +1,4 @@
-### Hi! I'm Melvyn Salvatierra👋
-
-I am a creative problem solver who enjoys working with others and continuing to better myself. To continue my higher education, I am attending Northern Illinois University to pursue a Bachelor of Science in Computer Science with an emphasis in Enterprise Software.
-
-
-
+### Hi!👋 I'm Melvyn Salvatierra, I am a creative problem solver who enjoys working with others and continuing to better myself. To continue my higher education, I am attending Northern Illinois University to pursue a Bachelor of Science in Computer Science with an emphasis in Enterprise Software.
 
 <html>
   <body>
