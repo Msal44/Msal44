@@ -2,7 +2,8 @@
 
 I am a creative problem solver who enjoys working with others and continuing to better myself. To continue my higher education, I am attending Northern Illinois University to pursue a Bachelor of Science in Computer Science with an emphasis in Enterprise Software.
 
-Growing up in Chicago allowed me to diversify my experience, while being creative, when providing a service for others. This led to my interest in computers and to pursue an education in Computer Science, which encompasses all of my interests.
+
+
 
 <html>
   <body>
