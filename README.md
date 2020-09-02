@@ -4,6 +4,9 @@
 ### Find me here:
 - [LinkedIn](https://www.linkedin.com/in/melvyns/)
 
+### Some fun facts about me:
+:zap: I'm super into sports, including lots of outdoor activities like hiking, soccer, and running. I am part of the NIU Robotics team and into video games!
+
 <html>
   <body>
     <img src="https://media2.giphy.com/media/CTX0ivSQbI78A/giphy.gif" alt = "We have technology "width="500" height="400">
