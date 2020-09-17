@@ -5,7 +5,7 @@
 - [LinkedIn](https://www.linkedin.com/in/melvyns/)
 
 ### Some fun facts about me:
-:zap: I'm super into sports, including lots of outdoor activities like hiking, soccer, and running. I am part of the NIU Robotics team and into video games!
+:zap: I'm into lots of outdoor activities, I am part of the NIU Robotics team and into video games!
 
 <html>
   <body>
