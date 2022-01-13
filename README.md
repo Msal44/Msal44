@@ -1,11 +1,10 @@
-### Hi!👋 I'm Melvyn Salvatierra, I am a creative problem solver who enjoys working with others. To continue my higher education, I am attending Northern Illinois University to pursue a Bachelor of Science in Computer Science with an emphasis in Enterprise Software. I am a coder on a mission to empower the world and always in search of new problems to solve. I am currently in my Senior in search of an entry level role, and some of my personal intrerests in technology include blockahin, applied machine learning, and implementation of technology. Currently I hold a Tax Technology Intern for R&M Constuliting for Walgreens Boots Alliance. In this role I hold multiple postions which are data analyst, project management, and consulting. In this role I aggregate, transfrom, and visualize big data for business intellgence so that the client can make strategic decsions for the tax department. I also implment and teach new technologies such as Power BI, Power Query, SharePoint, and Micrsoft Flow to modernize the workplace. I have worked on multiple projects in school and out of school with groups developing an ecommerce site and diving deep into decentralized finance within the blockchain space. I am always eager to learn, adapt, and go the extra mile.
-
+### My name is Melvyn Salvatierra and I have recently earned my Bachelor of Science in Computer Sciemce with an emphasis in Enterprise Software. In high school I became interested with technologies such blockchain, artificial intelligence, big data, etc. This led me to pursue a degree in Computer Science where I chose to specialize in Enterprise Software because I want to be this bridge that connects technology and businesses. Most importantly I want to be a bridge that connects and delivers technology to the people.
 
 ### Find me here:
 - [LinkedIn](https://www.linkedin.com/in/melvyns/)
 
 ### Some fun facts about me:
-:zap: I'm into lots of outdoor activities, I am part of the Society of Hispanic Professional Engineers, and into video games!
+:zap: I'm into video games, cars, hip pop dancing, and I can in Spanish.
 <!--
 <html>
   <body>
