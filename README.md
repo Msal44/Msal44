@@ -1,10 +1,7 @@
-### My name is Melvyn Salvatierra and I have recently earned my Bachelor of Science in Computer Sciemce with an emphasis in Enterprise Software. In high school I became interested with technologies such blockchain, artificial intelligence, big data, etc. This led me to pursue a degree in Computer Science where I chose to specialize in Enterprise Software because I want to be this bridge that connects technology and businesses. Most importantly I want to be a bridge that connects and delivers technology to the people.
-
+### My name is Melvyn Salvatierra 
 ### Find me here:
 - [LinkedIn](https://www.linkedin.com/in/melvyns/)
-
-### Some fun facts about me:
-:zap: I'm into video games, cars, hip pop dancing, and I can in Spanish.
+- 
 <!--
 <html>
   <body>
