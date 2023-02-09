@@ -2,7 +2,7 @@
 ### Find me here:
 - [LinkedIn](https://www.linkedin.com/in/melvyns/)
 - 
-<!--
+
 <html>
   <body>
     <img src="https://media2.giphy.com/media/CTX0ivSQbI78A/giphy.gif" alt = "We have technology "width="500" height="400">
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
